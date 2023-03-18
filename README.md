@@ -22,5 +22,3 @@ Whether you are looking for a notifier or you’re organizing single or recurrin
 
 ![enter image description here](https://github.com/image-assets/png/blob/master/ss3.png?raw=true)
 
-## Test
-[![Watch the video](https://raw.githubusercontent.com/image-assets/png/master/shot_200526_231600.png)](https://youtu.be/Ali_X0u46pA)
